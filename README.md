@@ -31,4 +31,4 @@
   <a href = "mailto:andrecandrad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andrecandrad" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
  
- <div class="tenor-gif-embed" data-postid="15160023" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023">Monkey Developer GIF</a> from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <img src="src/assets/readme/monkey.gif">
