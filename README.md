@@ -8,7 +8,7 @@
 
 🔭 A procura de uma oportunidade na área de TI 
 
-:seedling: Estudando desenvolvimento web (Kotlin)
+:seedling: Estudando Programação
 
 👽 Buscando conhecimento...<br><br>
 <img src=".github/workflows/src/assets/readme/monkey.gif">
