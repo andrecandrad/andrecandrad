@@ -4,7 +4,7 @@
 
 🧀 Belo Horizonte, Minas Gerais
 
-:computer: Técnico em informática (em andamento)​
+:computer: Técnico em informática
 
 🔭 A procura de uma oportunidade na área de TI 
 
