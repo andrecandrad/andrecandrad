@@ -6,7 +6,9 @@
 
 :computer: Técnico em informática
 
-🔭 A procura de uma oportunidade na área de TI 
+:mortar_board: 1° período - Engenharia de Software (PUC Minas)
+
+:school_satchel: Estágiário em desenvolvimento FullStack desde 02/2022
 
 :seedling: Estudando Programação
 
