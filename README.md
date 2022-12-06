@@ -1,6 +1,6 @@
 # Bem-vindo(a)! :wave:
 
-🔞 19 anos
+🔞 20 anos
 
 🧀 Belo Horizonte, Minas Gerais
 
